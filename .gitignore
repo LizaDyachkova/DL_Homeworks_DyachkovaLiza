@@ -1,0 +1,9 @@
+data/
+.venv/
+.venv313/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+setup.sh
+setup313.sh
